@@ -1,0 +1,175 @@
+
+Fitting: 400.0 uW
+Fit: 1	Lambda: 426.59 nm Q: 929.7
+Fit: 2	Lambda: 424.89 nm Q: 2839.4
+Fit: 3	Lambda: 419.85 nm Q: 2283.1
+Fit: 4	Lambda: 411.46 nm Q: 2498.7
+
+Fitting: 349.5 uW
+Fit: 1	Lambda: 426.60 nm Q: 1011.1
+Fit: 2	Lambda: 424.89 nm Q: 2770.3
+Fit: 3	Lambda: 419.85 nm Q: 2269.8
+Fit: 4	Lambda: 411.46 nm Q: 2492.5
+
+Fitting: 305.4 uW
+Fit: 1	Lambda: 426.59 nm Q: 884.6
+Fit: 2	Lambda: 424.89 nm Q: 2857.0
+Fit: 3	Lambda: 419.85 nm Q: 2361.2
+Fit: 4	Lambda: 411.46 nm Q: 2484.8
+
+Fitting: 266.9 uW
+Fit: 1	Lambda: 426.59 nm Q: 911.4
+Fit: 2	Lambda: 424.88 nm Q: 2808.3
+Fit: 3	Lambda: 419.84 nm Q: 2450.9
+Fit: 4	Lambda: 411.45 nm Q: 2482.1
+
+Fitting: 233.2 uW
+Fit: 1	Lambda: 426.58 nm Q: 952.5
+Fit: 2	Lambda: 424.88 nm Q: 2901.2
+Fit: 3	Lambda: 419.84 nm Q: 2544.0
+Fit: 4	Lambda: 411.45 nm Q: 2448.8
+
+Fitting: 203.8 uW
+Fit: 1	Lambda: 426.58 nm Q: 1066.7
+Fit: 2	Lambda: 424.88 nm Q: 2859.9
+Fit: 3	Lambda: 419.84 nm Q: 2550.7
+Fit: 4	Lambda: 411.45 nm Q: 2444.5
+
+Fitting: 178.1 uW
+Fit: 1	Lambda: 426.59 nm Q: 1110.7
+Fit: 2	Lambda: 424.88 nm Q: 2874.9
+Fit: 3	Lambda: 419.84 nm Q: 2543.9
+Fit: 4	Lambda: 411.45 nm Q: 2442.0
+
+Fitting: 155.6 uW
+Fit: 1	Lambda: 426.58 nm Q: 1011.9
+Fit: 2	Lambda: 424.88 nm Q: 2753.0
+Fit: 3	Lambda: 419.84 nm Q: 2549.5
+Fit: 4	Lambda: 411.44 nm Q: 2422.6
+
+Fitting: 135.9 uW
+Fit: 1	Lambda: 426.58 nm Q: 1018.4
+Fit: 2	Lambda: 424.88 nm Q: 2781.0
+Fit: 3	Lambda: 419.83 nm Q: 2542.0
+Fit: 4	Lambda: 411.44 nm Q: 2419.7
+
+Fitting: 118.8 uW
+Fit: 1	Lambda: 426.59 nm Q: 1145.8
+Fit: 2	Lambda: 424.88 nm Q: 2774.4
+Fit: 3	Lambda: 419.83 nm Q: 2546.7
+Fit: 4	Lambda: 411.44 nm Q: 2417.7
+
+Fitting: 103.8 uW
+Fit: 1	Lambda: 426.59 nm Q: 1260.2
+Fit: 2	Lambda: 424.88 nm Q: 2702.1
+Fit: 3	Lambda: 419.83 nm Q: 2524.9
+Fit: 4	Lambda: 411.44 nm Q: 2411.7
+
+Fitting: 90.7 uW
+Fit: 1	Lambda: 426.59 nm Q: 1146.7
+Fit: 2	Lambda: 424.87 nm Q: 2759.2
+Fit: 3	Lambda: 419.83 nm Q: 2551.4
+Fit: 4	Lambda: 411.44 nm Q: 2398.7
+
+Fitting: 79.3 uW
+Fit: 1	Lambda: 426.58 nm Q: 1378.6
+Fit: 2	Lambda: 424.87 nm Q: 2712.1
+Fit: 3	Lambda: 419.83 nm Q: 2556.6
+Fit: 4	Lambda: 411.44 nm Q: 2379.9
+
+Fitting: 69.3 uW
+Fit: 1	Lambda: 426.58 nm Q: 1291.3
+Fit: 2	Lambda: 424.88 nm Q: 2694.5
+Fit: 3	Lambda: 419.83 nm Q: 2549.1
+Fit: 4	Lambda: 411.44 nm Q: 2364.8
+
+Fitting: 60.5 uW
+Fit: 1	Lambda: 426.59 nm Q: 1200.5
+Fit: 2	Lambda: 424.87 nm Q: 2692.9
+Fit: 3	Lambda: 419.83 nm Q: 2568.5
+Fit: 4	Lambda: 411.44 nm Q: 2360.4
+
+Fitting: 52.9 uW
+Fit: 1	Lambda: 426.58 nm Q: 1361.8
+Fit: 2	Lambda: 424.87 nm Q: 2708.4
+Fit: 3	Lambda: 419.83 nm Q: 2543.2
+Fit: 4	Lambda: 411.44 nm Q: 2362.1
+
+Fitting: 46.2 uW
+Fit: 1	Lambda: 426.58 nm Q: 1497.1
+Fit: 2	Lambda: 424.87 nm Q: 2725.8
+Fit: 3	Lambda: 419.83 nm Q: 2547.9
+Fit: 4	Lambda: 411.44 nm Q: 2343.3
+
+Fitting: 40.4 uW
+Fit: 1	Lambda: 426.59 nm Q: 1333.8
+Fit: 2	Lambda: 424.88 nm Q: 2627.2
+Fit: 3	Lambda: 419.83 nm Q: 2550.5
+Fit: 4	Lambda: 411.44 nm Q: 2369.6
+
+Fitting: 35.3 uW
+Fit: 1	Lambda: 426.59 nm Q: 1379.6
+Fit: 2	Lambda: 424.88 nm Q: 2720.4
+Fit: 3	Lambda: 419.83 nm Q: 2546.8
+Fit: 4	Lambda: 411.44 nm Q: 2342.7
+
+Fitting: 30.8 uW
+Fit: 1	Lambda: 426.58 nm Q: 1374.1
+Fit: 2	Lambda: 424.88 nm Q: 2705.7
+Fit: 3	Lambda: 419.83 nm Q: 2556.1
+Fit: 4	Lambda: 411.44 nm Q: 2302.9
+
+Fitting: 26.9 uW
+Fit: 1	Lambda: 426.58 nm Q: 1384.4
+Fit: 2	Lambda: 424.87 nm Q: 2862.6
+Fit: 3	Lambda: 419.83 nm Q: 2506.5
+Fit: 4	Lambda: 411.44 nm Q: 2324.3
+
+Fitting: 23.5 uW
+Fit: 1	Lambda: 426.59 nm Q: 1408.8
+Fit: 2	Lambda: 424.88 nm Q: 2693.2
+Fit: 3	Lambda: 419.83 nm Q: 2528.7
+Fit: 4	Lambda: 411.44 nm Q: 2321.8
+
+Fitting: 20.6 uW
+Fit: 1	Lambda: 426.58 nm Q: 1415.3
+Fit: 2	Lambda: 424.88 nm Q: 2800.1
+Fit: 3	Lambda: 419.83 nm Q: 2505.4
+Fit: 4	Lambda: 411.44 nm Q: 2334.1
+
+Fitting: 18.0 uW
+Fit: 1	Lambda: 426.58 nm Q: 1429.0
+Fit: 2	Lambda: 424.88 nm Q: 2970.1
+Fit: 3	Lambda: 419.83 nm Q: 2515.5
+Fit: 4	Lambda: 411.45 nm Q: 2317.0
+
+Fitting: 15.7 uW
+Fit: 1	Lambda: 426.59 nm Q: 1608.1
+Fit: 2	Lambda: 424.88 nm Q: 2805.2
+Fit: 3	Lambda: 419.83 nm Q: 2472.7
+Fit: 4	Lambda: 411.45 nm Q: 2354.1
+
+Fitting: 13.7 uW
+Fit: 1	Lambda: 426.59 nm Q: 1336.1
+Fit: 2	Lambda: 424.88 nm Q: 2780.4
+Fit: 3	Lambda: 419.83 nm Q: 2470.8
+Fit: 4	Lambda: 411.45 nm Q: 2385.7
+
+Fitting: 12.0 uW
+Fit: 1	Lambda: 426.59 nm Q: 1395.0
+Fit: 2	Lambda: 426.59 nm Q: 1294.5
+Fit: 3	Lambda: 424.88 nm Q: 3464.4
+Fit: 4	Lambda: 419.84 nm Q: 2427.9
+Fit: 5	Lambda: 411.45 nm Q: 2323.2
+Duplicate fit at lambda 426.6
+
+Fitting: 10.5 uW
+Fit: 1	Lambda: 424.87 nm Q: 2295.5
+Fit: 2	Lambda: 419.84 nm Q: 2472.9
+Fit: 3	Lambda: 411.46 nm Q: 2154.7
+
+Fitting: 9.2 uW
+Fit: 1	Lambda: 419.84 nm Q: 2594.1
+
+Fitting: 8.0 uW
+Fit: 1	Lambda: 419.84 nm Q: 2427.7
